@@ -18,11 +18,13 @@ nav:
   - Projects:
       - Overview: projects/index.md
   - Study Notes:
-      - PHY Electrodynamics: notes/Convex/index.md
-      - Advanced Quantum Mechanics: notes/Convex/index.md
-      - Algebra III: notes/Convex/index.md
-      - Probability & Statistics: notes/Convex/index.md
+      - Advanced Quantum Mechanics: "notes/Advanced Quantum Mechanics/index.md"
+      - Asymptotic Statistics: "notes/Asymptotic Statistics/index.md"
+      - Convex Optimization: "notes/Convex/index.md"
+      - High Energy Physics: "notes/High Energy Physics/index.md"
+      - Solid Mechanics: "notes/Solid Mechanics/index.md"
   - About: about.md
+
 markdown_extensions:
   - admonition
   - toc:
