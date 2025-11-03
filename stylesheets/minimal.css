@@ -37,7 +37,9 @@ html{scroll-behavior:smooth}
 
 .md-header-nav__title{font-weight:900;letter-spacing:-.01em;color:var(--fg)}
 /* Center the tabs (top nav) */
-.md-tabs { justify-content: center; }
+.md-tabs { justify-content: center;
+padding-top: 0.4rem;
+  padding-bottom: 0.6rem; }
 .md-tabs__inner { max-width: 100% !important; padding: 0 !important;
 height:auto !important;
 overflow: visible: !important}
@@ -46,19 +48,9 @@ overflow: visible: !important}
   justify-content: center;
   align-items: center;
   gap: 2rem;             /* space between items */
-  margin: 0 auto;    /* kill default side margin */
+  margin: 0.1rem;    /* kill default side margin */
 }
-.md-tabs__link{
-  color:var(--muted);
-  font-weight:800;
-  font-size:1.35rem;
-  line-height: 1.15;          /* keep height tight */
-  padding: .25rem 0 .5rem;  /* vertical rhythm only */
-  border-bottom-width: 2px;
-  letter-spacing:.02em;
-  text-decoration:none;
-  border-bottom:2px solid transparent;
-}
+.md-tabs__link { font-size: 1.25rem;margin-bottom: 0.5rem;}
 .md-tabs__item--active .md-tabs__link{color:var(--link);border-bottom-color:var(--link)}
 .md-tabs__link:hover{color:var(--link);
 text-shadow: 0 0 12px rgba(210,133,173,.35);
