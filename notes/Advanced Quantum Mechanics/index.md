@@ -6,7 +6,7 @@
    ## PDF Summary
    [📘 Download the full summary (PDF)](quant_summary.pdf)
 
-   <iframe src="quant_summary.pdf" width="100%" height="700px"></iframe>
+   <iframe src="quant.pdf" width="100%" height="700px"></iframe>
 
    ## Topics covered
    - Foundations and measurement
