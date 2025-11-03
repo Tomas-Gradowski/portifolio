@@ -17,15 +17,11 @@ nav:
   - Home: index.md
   - Projects:
       - Overview: projects/index.md
-      - Electronics:
-          - LED Flasher (2N2222): projects/electronics/led-flasher.md
-      - Software:
-          - Example CLI Tool: projects/software/example-cli.md
   - Study Notes:
-      - PHY Electrodynamics: notes/electrodynamics/index.md
-      - Quantum Mechanics: notes/quantum-mechanics/index.md
-      - Algebra III: notes/algebra-III/index.md
-      - Probability & Statistics: notes/probability/index.md
+      - PHY Electrodynamics: notes/Convex/index.md
+      - Advanced Quantum Mechanics: notes/Advanced-Quantum-Mechanics/index.md
+      - Algebra III: notes/Convex/index.md
+      - Probability & Statistics: notes/Convex/index.md
   - About: about.md
 markdown_extensions:
   - admonition
