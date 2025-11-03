@@ -19,7 +19,7 @@ nav:
       - Overview: projects/index.md
   - Study Notes:
       - PHY Electrodynamics: notes/Convex/index.md
-      - Advanced Quantum Mechanics: notes/Advanced-Quantum-Mechanics/index.md
+      - Advanced Quantum Mechanics: notes/Convex/index.md
       - Algebra III: notes/Convex/index.md
       - Probability & Statistics: notes/Convex/index.md
   - About: about.md
