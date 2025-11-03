@@ -41,12 +41,15 @@ html{scroll-behavior:smooth}
 .md-tabs__link{
   color:var(--muted);
   font-weight:800;
+  font-size:1.35rem;
   letter-spacing:.02em;
   text-decoration:none;
   border-bottom:2px solid transparent;
 }
 .md-tabs__item--active .md-tabs__link{color:var(--link);border-bottom-color:var(--link)}
-.md-tabs__link:hover{color:var(--link)}
+.md-tabs__link:hover{color:var(--link);
+text-shadow: 0 0 12px rgba(210,133,173,.35);
+}
 
 /* Site title next to avatar, keep compact */
 .md-header-nav__title{font-weight:900;letter-spacing:-.01em;color:var(--fg)}
