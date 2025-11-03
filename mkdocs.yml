@@ -1,6 +1,6 @@
 site_name: Tomas | Projects & Study Notes
 site_description: Electronics, coding projects, and study notes
-site_url: https://<your-username>.github.io/<your-repo>
+site_url: https://Tomas-Gradowski.github.io/portifolio
 theme:
   name: material
   features:
@@ -37,6 +37,6 @@ markdown_extensions:
       generic: true
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-repo_url: https://github.com/<your-username>/<your-repo>
+repo_url: https://github.com/Tomas-Gradowski/portifolio
 repo_name: GitHub
 edit_uri: edit/main/docs/
