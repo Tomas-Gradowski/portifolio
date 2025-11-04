@@ -1,7 +1,5 @@
 # Probability & Statistics
 
-# Probability & Statistics Summary
-
 !!! note "About this summary"
     These notes collect key definitions, theorems, and worked examples from probability theory and statistics, focusing on clarity and conceptual connections.
 

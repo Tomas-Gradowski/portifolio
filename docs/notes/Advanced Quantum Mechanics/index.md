@@ -14,7 +14,6 @@
    - Angular momentum and spin
    - Tensor products and entanglement
 
-   # Probability & Statistics
 
 # Probability & Statistics Summary
 
@@ -54,8 +53,6 @@
 
 # From particle to stars - High Energy Physics
 
-
-# [High Energy Physics] Summary
 
 !!! note "About this summary"
     These notes summarize the key ideas, derivations, and problem-solving techniques from the course, based on my own condensed material.

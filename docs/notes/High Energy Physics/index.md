@@ -1,8 +1,5 @@
 # From particle to stars - High Energy Physics
 
-
-# [High Energy Physics] Summary
-
 !!! note "About this summary"
     These notes summarize the key ideas, derivations, and problem-solving techniques from the course, based on my own condensed material.
 
