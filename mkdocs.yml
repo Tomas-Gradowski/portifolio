@@ -1,40 +1,59 @@
-site_name: Tomas | Projects & Study Notes
-site_description: Electronics, coding projects, and study notes
-site_url: https://Tomas-Gradowski.github.io/portifolio
+site_name: Tomas Gradowski — Portfolio
+site_url: https://tomas-gradowski.github.io/portifolio/
+repo_url: https://github.com/tomas-gradowski/portifolio
+repo_name: tomas-gradowski/portifolio
+site_description: Portfolio, research, and study notes in Physics, Mathematics, and Microelectronics
+
 theme:
   name: material
+  language: en
+  logo: assets/avatar.png         # put your photo here (square)
+  favicon: assets/favicon.png
+  font:
+    text: JetBrains Mono
+    code: JetBrains Mono
   features:
-    - navigation.sections
-    - navigation.expand
-    - content.code.copy
-    - content.tabs.link
-    - search.highlight
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    - navigation.instant
+    - navigation.top
+    - navigation.tabs            # ← horizontal tabs like your friend’s
+    # keep it minimal: no secondary sidebar
+
+extra_css:
+  - stylesheets/minimal.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.keys
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:              # ← updated names (no deprecation)
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 nav:
   - Home: index.md
-  - Projects:
-      - Overview: projects/index.md
+  - About Me: about.md                # ← add your page
+  - Projects: projects/index.md
   - Study Notes:
       - Advanced Quantum Mechanics: "notes/Advanced Quantum Mechanics/index.md"
       - Asymptotic Statistics: "notes/Asymptotic Statistics/index.md"
       - Convex Optimization: "notes/Convex/index.md"
       - High Energy Physics: "notes/High Energy Physics/index.md"
-      - Solid Mechanics: "notes/Solid Mechanics/index.md"
-  - About: about.md
-
-markdown_extensions:
-  - admonition
-  - toc:
-      permalink: true
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.arithmatex:
-      generic: true
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-repo_url: https://github.com/Tomas-Gradowski/portifolio
-repo_name: GitHub
-edit_uri: edit/main/docs/
+      - Solid Mechanics: notes/Solid Mechanics/index.md
+  - Awards: docs/awards.md

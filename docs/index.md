@@ -1,25 +1,26 @@
-# Tomas | Projects & Study Notes
+# Tomas Gradowski
 
-Welcome to my portfolio and study archive — here you'll find notes, summaries, and personal projects related to **Physics**, **Mathematics**, and **Electronics**.
+Electronics, Physics, Tech & Mathematics. Research, notes, and experiments.
 
----
+- **Current:** convex optimization, asymptotic statistics  
+- **Lab:** Breadboard/PCB experiments — oscillators, SR latches, amplifiers  
+- **Code:** Scripts, analysis, small tools
+
+## Projects
+- **Analog lab** — discrete transistor circuits, prototyping, instrumentation  
+- **Tools** — small Python utilities for data/plots
 
 ## Study Notes
-Explore my summaries and materials:
-
-- [Advanced Quantum Mechanics](notes/Advanced%20Quantum%20Mechanics/index.md)
-- [Asymptotic Statistics](notes/Asymptotic%20Statistics/index.md)
-- [Convex Optimization](notes/Convex/index.md)
+- [Convex Optimization](notes/Convex/index.md)  
+- [Asymptotic Statistics](notes/Asymptotic%20Statistics/index.md)  
+- [Advanced Quantum Mechanics](notes/Advanced%20Quantum%20Mechanics/index.md)  
+- [Solid Mechanics](notes/Solid%20Mechanics/index.md)  
 - [High Energy Physics](notes/High%20Energy%20Physics/index.md)
-- [Solid Mechanics](notes/Solid%20Mechanics/index.md)
 
+
+## Gallery
+- [Certificates & Medals](awards.md)
 ---
 
-## ⚙️ Projects
-- [Projects Overview](projects/index.md)
-
----
-
-## 👤 About
-- [About me](about.md)
+Contact: [GitHub](https://github.com/tomas-gradowski) · <tomasgradowski@gmail.com>
 
