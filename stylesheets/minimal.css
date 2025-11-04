@@ -91,3 +91,16 @@ a:hover,.md-typeset a:hover{border-bottom-color:var(--link)}
 /* Selection */
 ::selection{background:#2A0C2F;color:#FFD8E7}
 
+.awards-thumb {
+  height: 160px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.awards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 14px;
+  align-items: start;
+}
