@@ -20,6 +20,8 @@ Electronics, Physics, Tech & Mathematics. Research, notes, and experiments.
 
 ## Gallery
 - [Certificates & Medals](awards.md)
+
+
 ---
 
 Contact: [GitHub](https://github.com/tomas-gradowski) · <tomasgradowski@gmail.com>

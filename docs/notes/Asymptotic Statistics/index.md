@@ -6,7 +6,7 @@
     These notes collect key definitions, theorems, and worked examples from probability theory and statistics, focusing on clarity and conceptual connections.
 
 ## PDF Summary
-[📘 Download the full summary (PDF)](stats.pdf)
+[📘 Download the full summary (PDF)](prob_textbook_definitive__version.pdf)
 
 <iframe src="prob_textbook_definitive__version.pdf" width="100%" height="700px"></iframe>
 

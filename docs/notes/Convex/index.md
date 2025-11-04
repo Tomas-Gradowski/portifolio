@@ -4,7 +4,7 @@
     These notes summarize the theoretical foundations and algorithms of convex optimization, emphasizing the link between geometry, duality, and computational methods.
 
 ## PDF Summary
-[📘 Download the full summary (PDF)](convex.pdf)
+[📘 Download the full summary (PDF)](convex_textbook.pdf)
 
 <iframe src="convex_textbook.pdf" width="100%" height="700px"></iframe>
 
