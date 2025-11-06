@@ -7,8 +7,8 @@ site_description: Portfolio, research, and study notes in Physics, Mathematics, 
 theme:
   name: material
   language: en
-  logo: assets/avatar.png         # put your photo here (square)
-  favicon: assets/favicon.png
+  logo: assets/images/avatar.png         # put your photo here (square)
+  favicon: assets/images/favicon.png
   font:
     text: JetBrains Mono
     code: JetBrains Mono

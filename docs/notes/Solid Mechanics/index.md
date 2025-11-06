@@ -15,4 +15,5 @@
 - Energy methods and virtual work
 - Torsion, bending, and beam theory
 - Failure criteria and plastic deformation
+- Stability of the Rubber Baloon (Worked Example)
 
