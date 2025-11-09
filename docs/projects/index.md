@@ -7,3 +7,6 @@ Electronics and coding projects with clear documentation and reproducibility.
 - Build steps & Photos
 - Measurements
 - Lessons learned
+
+# Transverse Field Ising Model:
+ising.md

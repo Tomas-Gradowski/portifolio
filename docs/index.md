@@ -9,7 +9,7 @@ Electronics, Physics, Tech & Mathematics. Research, notes, and experiments.
 ## Projects
 - **Analog lab** — discrete transistor circuits, prototyping, instrumentation  
 - **Tools** — small Python utilities for data/plots
-
+- [Transverse Field Ising Model](projects/ising.md)
 ## Study Notes
 - [Convex Optimization](notes/Convex/index.md)  
 - [Asymptotic Statistics](notes/Asymptotic%20Statistics/index.md)  
