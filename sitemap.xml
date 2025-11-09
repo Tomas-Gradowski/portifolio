@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://tomas-gradowski.github.io/portifolio/</loc>
-         <lastmod>2025-11-06</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://tomas-gradowski.github.io/portifolio/about/</loc>
-         <lastmod>2025-11-06</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://tomas-gradowski.github.io/portifolio/awards/</loc>
-         <lastmod>2025-11-06</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://tomas-gradowski.github.io/portifolio/notes/Advanced%20Quantum%20Mechanics/</loc>
-         <lastmod>2025-11-06</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://tomas-gradowski.github.io/portifolio/notes/Asymptotic%20Statistics/</loc>
-         <lastmod>2025-11-06</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://tomas-gradowski.github.io/portifolio/notes/Convex/</loc>
-         <lastmod>2025-11-06</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://tomas-gradowski.github.io/portifolio/notes/High%20Energy%20Physics/</loc>
-         <lastmod>2025-11-06</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://tomas-gradowski.github.io/portifolio/notes/Solid%20Mechanics/</loc>
-         <lastmod>2025-11-06</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://tomas-gradowski.github.io/portifolio/projects/</loc>
-         <lastmod>2025-11-06</lastmod>
+         <lastmod>2025-11-09</lastmod>
+    </url>
+    <url>
+         <loc>https://tomas-gradowski.github.io/portifolio/projects/ising/</loc>
+         <lastmod>2025-11-09</lastmod>
     </url>
 </urlset>
